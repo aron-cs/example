@@ -6,3 +6,6 @@
 - Haylo
 - JADHEER: EEE
 - Aayisha Rafeek ME
+- Aron Simon C: EEE
+- Sreni Saji: CSE
+- Sushmini S: CSE
